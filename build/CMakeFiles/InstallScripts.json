@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/duglo/Desktop/CIR2/build/cmake_install.cmake",
+		"/home/duglo/Desktop/CIR2/build/TP1/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

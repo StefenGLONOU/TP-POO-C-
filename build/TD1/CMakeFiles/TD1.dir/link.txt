@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/TD1.dir/link.d CMakeFiles/TD1.dir/main.c.o -o TD1

@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/TP1_1.dir/link.d CMakeFiles/TP1_1.dir/exo1.c.o -o TP1_1
