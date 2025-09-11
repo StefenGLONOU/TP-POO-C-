@@ -14,7 +14,7 @@ int main(){
 
         cout << nombre << "*" << i << " = " << nombre*i << endl;
     }
-
+    cout << "Fin du programme" << endl;
 
     return 0;
 }
