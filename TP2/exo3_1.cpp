@@ -14,7 +14,12 @@ int main(){
   }
 
   int nbLignes = 0, int nbLettres = 0, int nbMots = 0;
-  
+  string ligne;
+
+  while(getline(file,ligne)){
+    nbLignes++;
+
+  }
 
 	return 0;
 }
