@@ -18,4 +18,4 @@ float getZ();
 // other methods
 void print(); // prints the coordinates of the point
 float distanceTo(const Point3D &otherPoint3D);
-}
+};
