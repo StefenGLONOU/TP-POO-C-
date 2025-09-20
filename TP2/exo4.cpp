@@ -13,10 +13,9 @@ Point3D::Point3D(){
   z = rand() % 101;
 }
 
-Point3D::Point3D(const float &newx, const float &newy, const float &newz){
-  x = newx;
-  y = newy;
-  z = newz;
+Point3D::Point3D(const float &newx, const float &newy, const float &newz) : x(newx),y(newy),z(newz)
+{
+
 }
    
 void Point3D::setXYZ(const float &newx, const float &newy, const float &newz){
